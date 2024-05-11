@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently studying at **Krusty Crab**
+- 🔭 I’m currently studying at **Caraga State University.**
 
 - 🌱 I’m currently learning **to be a full stack developer.**
 
