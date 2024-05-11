@@ -1,4 +1,4 @@
-[![MasterHead](https://present.readthedocs.io/en/latest/_images/welcome-to-coding.gif)]
+![MasterHead](https://present.readthedocs.io/en/latest/_images/welcome-to-coding.gif)
 <h1 align="center">Hi 👋, I'm Christ Charl Gabales</h1>
 <h3 align="center">Pull Stack Developer - I just pull things from internet and paste it into my code.</h3>
 
