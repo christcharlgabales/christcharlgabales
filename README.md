@@ -19,8 +19,8 @@
 ## 🚀 About Me
 
 - 🎓 **Currently studying at** Caraga State University
-- 💻 **Learning Journey:** Full Stack Web Development
-- 🌱 **Currently exploring:** Modern JavaScript frameworks, backend technologies, and database management
+- 💻 **Learning Journey:** Full Stack Web Development & Cross-platform Mobile Development
+- 🌱 **Currently exploring:** Vue.js, Flutter, Modern JavaScript frameworks, backend technologies, and database management
 - 🎯 **Goal:** To become a proficient full-stack developer and contribute to meaningful projects
 - 📧 **Reach me at:** gabaleschrist1@gmail.com
 - ⚡ **Fun fact:** Patotoya 😄
@@ -30,10 +30,10 @@
 
 ```javascript
 const christ = {
-    currentlyLearning: ["React", "Node.js", "PostgreSQL", "Full Stack Development"],
-    technologies: ["JavaScript", "Java", "C", "HTML5", "Bootstrap"],
-    interests: ["Web Development", "Mobile Apps", "Database Design"],
-    askMeAbout: ["Web development", "Programming", "Tech trends"],
+    currentlyLearning: ["React", "Vue.js", "Flutter", "Node.js", "PostgreSQL", "Full Stack Development"],
+    technologies: ["JavaScript", "Java", "C", "HTML5", "Bootstrap", "Flutter", "Vue.js"],
+    interests: ["Web Development", "Mobile Apps", "Cross-platform Development", "Database Design"],
+    askMeAbout: ["Web development", "Flutter development", "Vue.js", "Programming", "Tech trends"],
     funFact: "I debug with console.log() and I'm not ashamed! 🐛"
 };
 ```
@@ -47,6 +47,7 @@ const christ = {
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </p>
 
@@ -61,6 +62,7 @@ const christ = {
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
 </p>
 
 ### Tools & Platforms
