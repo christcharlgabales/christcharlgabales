@@ -22,16 +22,15 @@
 - 💻 **Learning Journey:** Full Stack Web Development & Cross-platform Mobile Development
 - 🌱 **Currently exploring:** Vue.js, Flutter, Modern JavaScript frameworks, backend technologies, and database management
 - 🎯 **Goal:** To become a proficient full-stack developer and contribute to meaningful projects
-- 📧 **Reach me at:** gabaleschrist1@gmail.com
-- ⚡ **Fun fact:** Patotoya 😄
+- 📧 **Reach me at:** christcharlg@gmail.com
 - 🌏 **Location:** Philippines 🇵🇭
 
 ## 🔥 Current Learning Focus
 
 ```javascript
 const christ = {
-    currentlyLearning: ["React", "Vue.js", "Flutter", "Node.js", "PostgreSQL", "Full Stack Development"],
-    technologies: ["JavaScript", "Java", "C", "HTML5", "Bootstrap", "Flutter", "Vue.js"],
+    currentlyLearning: ["Vue.js", "Flutter", "Node.js", "PostgreSQL", "Full Stack Development"],
+    technologies: ["JavaScript", "Java", "Bootstrap", "Flutter", "Vue.js"],
     interests: ["Web Development", "Mobile Apps", "Cross-platform Development", "Database Design"],
     askMeAbout: ["Web development", "Flutter development", "Vue.js", "Programming", "Tech trends"],
     funFact: "I debug with console.log() and I'm not ashamed! 🐛"
