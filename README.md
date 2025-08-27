@@ -132,8 +132,4 @@ const christ = {
 
 ---
 
-<div align="center">
-  <i>⭐️ From <a href="https://github.com/christcharlgabales">christcharlgabales</a></i>
-</div>
-
 ![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
