@@ -29,7 +29,7 @@
 ## 🛠️ &nbsp;Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,vue,react,bootstrap,laravel,supabase,mysql,postgres,java,c,git,github,vscode,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,vue,react,laravel,supabase,postgres,java,figma&theme=dark" />
 </div>
 <br/>
 
